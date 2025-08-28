@@ -32,6 +32,7 @@ embedded-systems-learning/
 
 ## Table of Contents
 - [Introduction to Microcontrollers and Proteus Simulation](entries/01_intro_microcontrollers_proteus/notes.md)
+- [Arduino Nano – LEDs and Buzzer Control](entries/02_arduino_nano_leds_buzzer/notes.md)
 
 ---
 
