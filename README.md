@@ -9,19 +9,15 @@ The goal is to keep track of what I learn, practice, and build — while also cr
 
 ## Repository Structure
 embedded-systems-learning/
-│
 ├── README.md
-└── entries/
+├── notes.md
+├── led_circuit.png
+├── led_circuit.pdsprj
+├── gpio_simulation.pdsprj
+└── entities/
     ├── 01_intro_microcontrollers_proteus/
-    │   ├── notes.md
-    │   ├── led_circuit.png
-    │   └── led_circuit.pdsprj
-    │
     └── 02_gpio_basics/
-        ├── notes.md
-        └── gpio_simulation.pdsprj
-
-
+        └── notes.md
 
 - Each **lesson has its own folder** under `entries/`.  
 - A lesson folder may contain:
