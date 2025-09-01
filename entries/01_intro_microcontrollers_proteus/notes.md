@@ -41,7 +41,3 @@ I also learned the basics of **Proteus**, a circuit simulation tool that helps t
 
 ## Reflection
 This lesson gave me a solid introduction to the boards I’ll use later and showed me how Proteus can be a powerful tool for testing circuits quickly.  
-
-## Next Steps
-- Try simulating a blinking LED using a microcontroller in Proteus.  
-- Practice adding and configuring an Arduino in Proteus simulations.  

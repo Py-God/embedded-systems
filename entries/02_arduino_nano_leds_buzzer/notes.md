@@ -48,7 +48,3 @@ Key concepts in this lesson:
 ## Reflection
 This lesson helped me transition from simulation to real hardware.
 I now understand how inputs and outputs interact in embedded systems.
-
-## Next Steps
-- Combine LEDs + button + buzzer into a single project.
-- Try more complex behaviors (e.g., button press cycles through LED patterns).
