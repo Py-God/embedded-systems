@@ -32,6 +32,7 @@ embedded-systems-learning/
 - [Introduction to Microcontrollers and Proteus Simulation](entries/01_intro_microcontrollers_proteus/notes.md)
 - [Arduino Nano – LEDs and Buzzer Control](entries/02_arduino_nano_leds_buzzer/notes.md)
 - [Arduino Nano: Serial Communication & Password System](entries/03_serial_password_system/notes.md)
+- [Sensors Introduction & Voltage Monitoring System](entries/04_sensors_voltage_monitor/notes.md)
 
 ---
 
